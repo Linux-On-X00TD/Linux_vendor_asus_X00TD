@@ -1312,8 +1312,8 @@ PRODUCT_PACKAGES += \
 #     QFingerprintService \
 #     TimeService \
 #     WfdCommon \
-    com.qti.snapdragon.sdk.display \
+    com.qti.snapdragon.sdk.display
 #     qcrilhook \
-    vendor.qti.hardware.alarm-V1.0-java \
-    vendor.qti.hardware.factory-V1.0-java \
-    vendor.qti.hardware.sensorscalibrate-V1.0-java
+#     vendor.qti.hardware.alarm-V1.0-java \
+#     vendor.qti.hardware.factory-V1.0-java \
+#     vendor.qti.hardware.sensorscalibrate-V1.0-java
